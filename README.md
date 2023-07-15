@@ -1,4 +1,3 @@
-![gameoftheronseapp1](https://github.com/Abdo73873/game_of_thrones-cleanArc/assets/88721486/b46be229-f35b-4477-95b9-fa8c4172ed21)
 ![gameoftheronseapp](https://github.com/Abdo73873/game_of_thrones-cleanArc/assets/88721486/18f3a024-fcab-4141-b752-3cee1086984b)
 # breaking_bed
 
